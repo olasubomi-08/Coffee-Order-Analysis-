@@ -2,6 +2,12 @@
 
 An interactive Power BI dashboard analyzing coffee order transactions to surface revenue trends, customer behavior, and product performance across markets.
 
+## 📸 Dashboard Preview
+
+![Coffee Dashboard Overview](coffee-dashboard-overview.png)
+
+![Coffee Data Model](coffee-data-model.png)
+
 ## 📊 Overview
 
 This project analyzes **1,000 coffee orders** placed between **January 2019 and August 2022**, across **3 markets** (United States, Ireland, United Kingdom), covering **4 coffee types** (Arabica, Robusta, Liberica, Excelsa) in **3 roast levels**, (Light, Medium, Dark).
