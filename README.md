@@ -62,7 +62,6 @@ Open the file using Power BI Desktop to explore the interactive dashboard.
 **Option 2 — Dashboard Screenshots**
 Screenshots of the dashboard are available in the screenshots/ folder for a quick preview of the analysis.
 
-## 📝 Notes on the Data
+📝 Notes on the Data
 
 This dataset is a sample/practice dataset used for BI portfolio purposes and is not real customer data.
- name and links (LinkedIn, portfolio site, GitHub) here.*            
