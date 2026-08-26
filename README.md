@@ -65,6 +65,4 @@ Screenshots of the dashboard are available in the screenshots/ folder for a quic
 ## 📝 Notes on the Data
 
 This dataset is a sample/practice dataset used for BI portfolio purposes and is not real customer data.
-## 👤 Author
-
-*Add your name and links (LinkedIn, portfolio site, GitHub) here.*            
+ name and links (LinkedIn, portfolio site, GitHub) here.*            
